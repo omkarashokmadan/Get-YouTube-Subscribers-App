@@ -16,7 +16,7 @@ This is a full stack MERN project on Get Youtube Subscribers.
 
 Code for frontend and backend is given in :
 
-"https://github.com/omkarashokmadan/code-3.git"
+"https://github.com/omkarashokmadan/Get-YouTube-Subscribers-App.git"
 
 Technology used:
 
@@ -31,7 +31,7 @@ Database: MongoDB
 Clone the project
 
 ```bash
-  git clone https://github.com/omkarashokmadan/code-3.git
+  git clone https://github.com/omkarashokmadan/Get-YouTube-Subscribers-App.git
 ```
 
 Go to the project directory
@@ -63,7 +63,7 @@ Start the server
 Clone the project
 
 ```bash
-  git clone https://github.com/omkarashokmadan/code-3.git
+  git clone https://github.com/omkarashokmadan/Get-YouTube-Subscribers-App.git
 ```
 
 Go to the project directory
