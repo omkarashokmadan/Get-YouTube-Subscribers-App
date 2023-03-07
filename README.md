@@ -1,8 +1,12 @@
 # Project Title
 
-Get Youtube Subscribers.This is a BackEnd Capstone Project
+Get Youtube Subscribers.This is a BackEnd Capstone Project.were we get all subscribers data.subscribers name, subscribed to channel and its id.We can enter id and get
+complete details of name,subscribed channel and subscribed data with respect to id.for user experience we can go to following link-
 
 "https://csb-2t2u58-pi73459ty-omkaramadan72-gmailcom.vercel.app/"
+
+Backend Project is lively deloyed on - "https://youtube-backend-buds.onrender.com/subscribers" . In this we get data in Json objects format.Video demo is shown
+here - 
 
 Click on All Subscriber to get data of all Subscribers.
 
