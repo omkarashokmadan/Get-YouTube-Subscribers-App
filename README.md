@@ -1,6 +1,6 @@
 # Project Title
 
-Get Youtube Subscribers
+Get Youtube Subscribers.This is a BackEnd Capstone Project
 
 "https://csb-2t2u58-pi73459ty-omkaramadan72-gmailcom.vercel.app/"
 
