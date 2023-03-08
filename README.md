@@ -26,7 +26,7 @@ This is a full stack MERN project on Get Youtube Subscribers.
 
 Code for frontend and backend is given in :
 
-https://github.com/omkarashokmadan/Get-YouTube-Subscribers-App.git
+"https://github.com/omkarashokmadan/Get-YouTube-Subscribers-App.git"
 
 Technology used:
 
